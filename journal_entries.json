@@ -1,0 +1,55 @@
+[
+    {
+        "timestamp": "2025-05-03 11:15:00",
+        "activity_type": "morning_free_write",
+        "entry": "Another morning free write. I explored my feelings about an upcoming project.",
+        "date": "2025-05-03"
+    },
+    {
+        "timestamp": "2025-05-05 18:55:03",
+        "activity_type": "morning_free_write",
+        "entry": "im testing this feature to see if i can save it as json",
+        "date": "2025-05-05"
+    },
+    {
+        "timestamp": "2025-05-07 10:00:00",
+        "activity_type": "morning_free_write",
+        "entry": "Wrote about my dreams last night.  They were quite vivid.",
+        "date": "2025-05-07"
+    },
+    {
+        "timestamp": "2025-05-05 21:19:55",
+        "activity_type": "morning_free_write",
+        "entry": "i want to see the prompt. is that an act of kindness",
+        "date": "2025-05-05",
+        "prompt": "Describe a small act of kindness you witnessed or performed."
+    },
+    {
+        "timestamp": "2025-05-05 21:29:23",
+        "activity_type": "morning_free_write",
+        "entry": "this is a test. i want to see how many words. there\nmore words, test. 13 14 15 15 hello hello\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. therethis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\n\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\n\nthis is a test. i want to see how many words. there\n\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\n\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there\nthis is a test. i want to see how many words. there",
+        "date": "2025-05-05",
+        "prompt": null
+    },
+    {
+        "timestamp": "2025-05-05 21:31:58",
+        "activity_type": "morning_free_write",
+        "entry": "this is a test",
+        "date": "2025-05-05",
+        "prompt": null
+    },
+    {
+        "timestamp": "2025-05-06 22:10:33",
+        "activity_type": "morning_free_write",
+        "entry": "testing that this is saved! ",
+        "date": "2025-05-06",
+        "prompt": null
+    },
+    {
+        "timestamp": "2025-05-06 22:18:33",
+        "activity_type": "morning_free_write",
+        "entry": "We are testing \"reliability\" by saving this entry!",
+        "date": "2025-05-06",
+        "prompt": null
+    }
+]
